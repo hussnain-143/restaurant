@@ -3,7 +3,7 @@ import { NavLink } from 'react-router'
 
 const Header = () => {
   return (
-    <div className="  bg-amber-400 w-full shadow-sm shadow-amber-700 sticky top-0 flex justify-between items-center px-10">
+    <div className="  bg-amber-400 w-full shadow-sm shadow-amber-700 sticky top-0 flex justify-between items-center px-20">
       <div>
         <h2 className="text-4xl text-amber-800">Restaurant</h2>
       </div>
