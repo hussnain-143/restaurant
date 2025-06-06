@@ -1,13 +1,12 @@
 
 import './App.css'
+import RoutesComponent from './routes/routes'
 
 function App() {
   
   return (
     <>
-      <h2>
-        Home 
-      </h2>
+      <RoutesComponent/>
     </>
   )
 }
